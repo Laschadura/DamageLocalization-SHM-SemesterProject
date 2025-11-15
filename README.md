@@ -25,15 +25,11 @@ The aim of this project was to develop an **ML-based SHM pipeline** capable of:
 
 # 📁 Repository Structure
 DamageLocalization-SHM-SemesterProject/
-|
-|-- MATLAB/                  # Modal parameter extraction (SSI, FDD, ERA)
-|
-|-- Modal_Parameter_Model/   # ML using modal parameters (RF, MLP, CNN)
-|
-|-- RawDataModel/            # ML using raw accelerometer time series (1D/2D CNNs)
-|
-`-- report/
-    `-- SP-Report_SHM_Simon_Scandella.pdf
+├── MATLAB/                  # Modal parameter extraction (SSI, FDD, ERA)
+├── Modal_Parameter_Model/   # ML using modal parameters (RF, MLP, CNN)
+├── RawDataModel/            # ML using raw accelerometer time series (1D/2D CNNs)
+└── report/
+    └── SP-Report_SHM_Simon_Scandella.pdf
 
 
 ---
