@@ -7,7 +7,7 @@ Data originates from the experiment by **Liu et al. (2024)**, where a full-scale
 
 > **Note:**  
 > The raw experimental data cannot be shared publicly.  
-> This repository contains **only the code**, documentation, and the project report.
+> This repository contains **only the code**, documentation, results and the project report.
 
 ---
 
@@ -142,15 +142,6 @@ Used for CNN heatmap prediction.
 - Modal parameter extraction contains noise and inconsistent mode tracking  
 - High-damage cases appear only at the end of the test sequence  
 
----
-
-# 🚀 Future Work
-
-- Collect more high-damage and intermediate-damage scenarios  
-- Use simulation (e.g., FEM + modal synthesis) to generate synthetic data  
-- Apply **unsupervised** methods (autoencoders, anomaly detection)  
-- Explore Bayesian or probabilistic ML (e.g., simulation-based inference)  
-- Better mode-tracking pipelines for robust modal identification  
 
 ---
 
@@ -166,9 +157,8 @@ The detailed methodology, visualizations, results, and discussion can be found i
 
 **Simon Scandella**  
 MSc Mechanical Engineering – ETH Zürich  
-Focus: Energy Technologies, Machine Learning, Structural Health Monitoring  
+Focus: Energy Technologies, Machine Learning
 Email: simon.scandellas@gmail.com  
-GitHub: [@Laschadura](https://github.com/Laschadura)
 
 ---
 
